@@ -1,0 +1,44 @@
+
+.logo-area{
+    
+    padding: 10px;
+}
+
+.logo-area h1{
+    font-size: 15pt;
+    text-align: center;
+}
+
+.logo-area img{
+    width: 150px;
+    border-radius: 100%;
+}
+
+.logo-area ul{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    list-style: none;
+}
+
+.logo-area li{
+    border: 1px solid rgba(0, 0, 0, 0.411);
+    border-radius: 5px;
+    width: 200px;
+    padding: 10px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.logo-area p{
+    padding: 10px;
+}
+
+.logo-area button{
+    background-color:springgreen;
+    border: none;
+    padding: 12px;
+    width: 180px;
+    border-radius: 5px;
+    cursor: pointer;
+}

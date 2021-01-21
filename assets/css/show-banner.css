@@ -1,0 +1,28 @@
+.show-banner{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.title{
+    margin: 20px;
+    width: 45%;
+    text-align: center;
+}
+
+.title img{
+    border-radius: 100%;
+    width: 150px;
+    padding: 20px;
+}
+
+.title h1{
+    font-size: 30pt;
+    padding: 15px;
+    text-align: center;
+}
+
+.title p{
+    padding: 15px;
+    font-size: 14pt;
+}
