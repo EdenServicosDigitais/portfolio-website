@@ -6,7 +6,7 @@
 
 .title{
     margin: 20px;
-    width: 45%;
+    width: 35%;
     text-align: center;
 }
 
@@ -17,12 +17,11 @@
 }
 
 .title h1{
-    font-size: 30pt;
-    padding: 15px;
-    text-align: center;
+    font-size: 40pt;
+    padding: 25px;
 }
 
 .title p{
-    padding: 15px;
-    font-size: 14pt;
+    padding: 25px;
+    font-size: 16pt;
 }

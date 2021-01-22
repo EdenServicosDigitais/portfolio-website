@@ -1,3 +1,39 @@
 .banner{
-    background-color: tomato;
+    background-color: springgreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 50%;
+    height: 500px;
+    border-radius: 10px;
+    border: 1px solid rgba(0, 0, 0, 0.164);
+}
+
+.banner-area{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+#banner-title{
+    padding: 15px;
+}
+
+#banner-subtitle{
+    padding: 10px;
+}
+
+.banner button{
+    background-color: rgba(0, 0, 0, 0.336);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    width: 150px;
+    font-size: 15pt;
+    cursor: pointer;
 }
